@@ -56,6 +56,5 @@ $ npm run start
 $ npm run generate
 ```
 # SceenShot
-
-![zimed-vue-nuxt-app-landing-page-template](https://user-images.githubusercontent.com/89033750/162655896-da030a9e-45dc-4f3f-a366-e7d18e460071.png)
+![Uploading zimed-vue-nuxt-app-landing-page-template.png…]()
 
